@@ -1,0 +1,20 @@
+Rescue Coordination Application
+Overview
+The Rescue Coordination Application is a centralized platform that aims to streamline and enhance the coordination efforts of various rescue and relief agencies during natural or man-made calamities. The application allows registered rescue agencies to share and access real-time location data, facilitating better collaboration and response management.
+
+Features
+Agency Registration: Rescue agencies can register and create profiles, providing essential information about their capabilities, resources, and areas of expertise.
+
+Real-time Location Sharing: Agencies can share their current locations in real-time, allowing others to visualize and coordinate efforts effectively.
+
+Calamity Dashboard: A centralized dashboard displays information about ongoing calamities, including their nature, severity, and affected regions.
+
+Resource Inventory: Agencies can update and share their available resources such as personnel, vehicles, and equipment, aiding in resource allocation and optimization.
+
+Communication Hub: Built-in communication tools enable secure and instant messaging between registered agencies, fostering better collaboration.
+
+Figma Design
+Explore the visual design and user interface of the Rescue Coordination Application on Figma.
+link: 
+
+https://www.figma.com/file/n624uq7PPue67Oor9tRTGN/saviour1?type=design&node-id=0%3A1&mode=design&t=AHSyvSfPtus1t7Z9-1""
